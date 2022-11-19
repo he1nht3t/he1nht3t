@@ -84,9 +84,7 @@ You can click the Preview link to take a look at your changes.
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
-![He1nHt3t's github stats](https://github-readme-stats.vercel.app/api?username=he1nht3t)
-</div>
+![heinhte's GitHub stats](https://github-readme-stats.vercel.app/api?username=he1nht3t&show_icons=true&theme=tokyonight)
 
 <br>
 <br>
