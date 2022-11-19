@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center"><b>Hi , I'm Hein Htet Aung </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Web+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -85,12 +85,9 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <div align="center">
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=he1nht3t&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=he1nht3t&langs_count=5&theme=tokyonight)]()
 
-<a href="https://github.com/he1nht3t/">
-  <img src="https://github-readme-stats.vercel.app/api?username=he1nhtet&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=he1nhtet&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="he1nht3t"/>
-
-</a>
 </div>
 
 <br>
