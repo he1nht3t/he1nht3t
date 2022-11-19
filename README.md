@@ -29,8 +29,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 - A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
-<!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
+- Currently learning Web Development by Self <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 - I’m currently open for an Intern or a new job opportunity
 <!-- - , this is [my resume](https://read.cv/0xabdulkhalid) -->
 
@@ -114,14 +113,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 <div align='left'>
 
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/heinhtet-aung-0874431a2" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
 <br>
 
 <li>
@@ -159,6 +150,3 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
