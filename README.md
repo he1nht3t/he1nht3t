@@ -26,7 +26,6 @@ You can click the Preview link to take a look at your changes.
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<br>
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
@@ -38,7 +37,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -78,7 +76,6 @@ You can click the Preview link to take a look at your changes.
 
 -----
 
-<br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -88,13 +85,9 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he1nht3t)](https://github.com/he1nht3t/github-readme-stats)
 
 <br>
-<br>
-<br>
 
 -----
 
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/he1nht3t/he1nht3t/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="left">
