@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ![heinhte's GitHub stats](https://github-readme-stats.vercel.app/api?username=he1nht3t&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he1nht3t&layout=compact)](https://github.com/he1nht3t/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he1nht3t)](https://github.com/he1nht3t/github-readme-stats)
 
 <br>
 <br>
